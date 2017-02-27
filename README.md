@@ -1,5 +1,6 @@
 # .gitignore Generator
 A (tiny) Windows utility that generates .gitignore files for creative coding libraries
+
 [Download .exe](https://drive.google.com/file/d/0B2Q7JcVqgf27b1lGSkhScE52eUU/view?usp=sharing)
 ![alt text](https://github.com/juniorxsound/.gitignore-generator/blob/master/gitignore_capture.jpg "screen capture")
 The application generates .gitignore files for:

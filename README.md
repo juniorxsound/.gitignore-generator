@@ -13,4 +13,4 @@ The application generates .gitignore files for:
 4.[p5.js](https://github.com/processing/p5.js)
 
 
-> Built as a part of Code Lab class @ NYU lectured by Matt Parker.
+> Built as a part of Code Lab class @ NYU lectured by [Matt Parker](https://github.com/madparker).
